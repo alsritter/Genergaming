@@ -4,6 +4,10 @@
 
 https://alsritter.github.io/Genergaming/#/
 
+Please press Save before opening Unity
+
+save: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+
 Genergaming is an editor that can edit game map generation games online. Once the map is drawn, it can be run online through a WebGL client written in Unity.
 
 ![](https://images.alsritter.icu/images/2021/09/26/30aeda9936f5fccfb7a50fa057b460e.png)
