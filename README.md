@@ -1,5 +1,9 @@
 # Why is Genergaming?
 
+⚠ Because there are still some unfinished functions, so I will not expose the code for the moment
+
+https://alsritter.github.io/Genergaming/#/
+
 Genergaming is an editor that can edit game map generation games online. Once the map is drawn, it can be run online through a WebGL client written in Unity.
 
 ![](https://images.alsritter.icu/images/2021/09/26/30aeda9936f5fccfb7a50fa057b460e.png)
