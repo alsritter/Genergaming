@@ -11,7 +11,7 @@ https://alsritter.github.io/Genergaming/#/
 Please press Save before opening Unity
 
 * save <kbd>Ctrl</kbd> + <kbd>S</kbd>
-* Hold <kbd>Ait</kbd> + <kbd>right mouse</kbd> button to drag the canvas
+* Hold <kbd>Ait</kbd> + <kbd>left mouse</kbd> button to drag the canvas
 * The mouse wheel zooms the canvas
 
 Game
